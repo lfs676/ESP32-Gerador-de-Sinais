@@ -23,9 +23,11 @@ Obs: No layout do Projeto foi adicionado um conector para adicionar um display O
 #
 #
 <img src="https://github.com/lfs676/ESP32-Gerador-de-Sinais/blob/main/Images/Schematic.jpg?raw=true">
+
 #
 #
 <img src="https://github.com/lfs676/ESP32-Gerador-de-Sinais/blob/main/Images/Layout.png?raw=true">
+
 #
 #
 <img src="https://github.com/lfs676/ESP32-Gerador-de-Sinais/blob/main/Images/Project.jpg?raw=true">
