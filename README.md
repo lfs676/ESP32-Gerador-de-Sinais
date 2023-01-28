@@ -11,6 +11,7 @@ Este projeto visa desenvolver um gerador de funções utilizando o microcontrola
 - 1 Push Button
 - 1 Barra de Pinos Fêmea
 - 1 Conector KRE 3 Vias
+- Biblioteca [esp32dacFast](https://github.com/tuliomoreira77/esp32dacFast)
 
 ### Especificações do Projeto
 Este Projeto funciona com alimentação de -15V a +15V, necessários para gerar o offset na saída do amplificador, as frequências de ajuste variam de acordo com a forma de onda escolhida e sendo controlada de maneira simples através dos potenciômetros. O ESP32 possui 2 saídas DAC em seu corpo, sendo assim fornecendo 2 canais de geração que podem ser facilmente adaptados no projeto.
