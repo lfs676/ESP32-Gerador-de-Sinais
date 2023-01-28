@@ -1,3 +1,4 @@
+## Gerador de Sinais com ESP32
 <img src="https://github.com/lfs676/ESP32-Gerador-de-Sinais/blob/main/Images/WaveForms.jpg?raw=true">
 
 ## Introdução
@@ -18,3 +19,14 @@ Este projeto visa desenvolver um gerador de funções utilizando o microcontrola
 ### Especificações do Projeto
 Este Projeto funciona com alimentação de -15V a +15V, necessários para gerar o offset na saída do amplificador, as frequências de ajuste variam de acordo com a forma de onda escolhida e sendo controlada de maneira simples através dos potenciômetros. O ESP32 possui 2 saídas DAC em seu corpo, sendo assim fornecendo 2 canais de geração que podem ser facilmente adaptados no projeto.
 Obs: No layout do Projeto foi adicionado um conector para adicionar um display OLED para mostrar as informações da saída, porém não foi incluido no código esta funcionalidade.
+
+#
+#
+<img src="https://github.com/lfs676/ESP32-Gerador-de-Sinais/blob/main/Images/Schematic.jpg?raw=true">
+#
+#
+<img src="https://github.com/lfs676/ESP32-Gerador-de-Sinais/blob/main/Images/Layout.png?raw=true">
+#
+#
+<img src="https://github.com/lfs676/ESP32-Gerador-de-Sinais/blob/main/Images/Project.jpg?raw=true">
+
