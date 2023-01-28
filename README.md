@@ -1,6 +1,8 @@
 ## Gerador de Sinais com ESP32
 <img src="https://github.com/lfs676/ESP32-Gerador-de-Sinais/blob/main/Images/WaveForms.jpg?raw=true">
 
+<div>
+  <div align="justify">
 ## Introdução
 Este projeto visa desenvolver um gerador de funções utilizando o microcontrolador ESP32. O ESP32 é uma plataforma de baixo custo e baixo consumo de energia que possui recursos avançados de conectividade, como Wi-Fi e Bluetooth. Com este gerador de funções, será possível gerar diferentes formas de onda, como senoidal, quadrada, triangular e dente de serra, utilizando o ESP32 e seus periféricos. Além disso, será possível controlar a frequência, a amplitude e o offset das ondas geradas através de uma interface de potenciômetros e botões. Este projeto tem como objetivo fornecer uma solução econômica e fácil de usar para geração de sinais para aplicações educacionais e de laboratório.
 
